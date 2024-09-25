@@ -1,0 +1,15 @@
+yfinance
+pandas
+tqdm
+streamlit
+sqlalchemy
+streamlit-aggrid
+vectorbt
+networkx
+scipy
+scikit-learn
+statsmodels
+pykalman
+lightgbm
+hyperopt
+quantstats
